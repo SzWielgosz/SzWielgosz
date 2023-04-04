@@ -1,6 +1,6 @@
-# 🙋‍♂️ About me
+## 👋 About me
 Hi there, my name is Szymon. I'm 21 years old student from Poland. I'm studying IT systems engineering at University of Warmia and Mazury in Olsztyn.
-### Hobbies
+### 🎉 Hobbies
 * :video_game: Gaming
 
 * :guitar: Playing guitar
@@ -9,7 +9,7 @@ Hi there, my name is Szymon. I'm 21 years old student from Poland. I'm studying 
 
 * :books: Reading books 
 
-# Technologies
+## 💻 Technologies
 <a href=https://www.djangoproject.com/>
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="35" height="35" />
 </a>
@@ -30,12 +30,11 @@ Hi there, my name is Szymon. I'm 21 years old student from Poland. I'm studying 
 <img height="35" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" />
 </a>
 
-# Projects
-🔭 I’m currently working on my studies projects:
+## 🚀 Projects
 * <a href=https://github.com/Vex0on/ICC_Imgur_clone>Imgur_clone</a>
 * <a href=https://github.com/Vex0on/ICC_15_00>Swimming_pool_app</a>
 
-# Learning
+## 📚 Learning
 <a href=https://www.postman.com/>
 <img height="35" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" />
 </a>
