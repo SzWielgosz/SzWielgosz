@@ -33,6 +33,7 @@ Hi there, my name is Szymon. I'm 21 years old student from Poland. I'm studying 
 ## 🚀 Projects
 * <a href=https://github.com/Vex0on/ICC_Imgur_clone>Imgur_clone</a>
 * <a href=https://github.com/Vex0on/ICC_15_00>Swimming_pool_app</a>
+* <a href=https://github.com/SzWielgosz/PSI>Swimming_pool_api</a>
 
 ## 📚 Learning
 <a href=https://www.postman.com/>
